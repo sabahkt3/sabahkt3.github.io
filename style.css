@@ -1,0 +1,33 @@
+
+#sec2 {
+    padding-left: 100px; 
+}
+#head {
+    font-family: 'Times New Roman', Times, serif;
+}
+body{
+    background-image: linear-gradient(to right, #e6bcae,#c3cfe2);
+}
+.btn {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif !important;
+    
+}
+.services{
+    background-image: linear-gradient(to right, #d5ddea,#ead4cd) !important;
+}
+.navbar-nav > li{
+    margin-right:20px;
+    font-size: 0.9em;
+    font-family: "Courier New", monospace;
+    font-weight: bold;
+}
+img {
+    width:100%;
+    height:auto;
+}
+.card {display:inline-block;}
+
+.img-links{
+    height: 3em;
+    width: 3em;
+}
